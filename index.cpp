@@ -1,7 +1,7 @@
 #include <iostream>
-using namespace std;
-int int main() {
+using namespace std; int main() {
   /* code */
-  std::cout << "hello there my dear" << '\n';
+  cout << "hello there my dear" << '\n';
+
   return 0;
 }
